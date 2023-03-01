@@ -1,5 +1,5 @@
 # Colors-App
-This was my first app that I had developed. 
+This was my second app that I had developed. 
 A basic Colors App where on clicking on one color it expands.
 
 <html>
